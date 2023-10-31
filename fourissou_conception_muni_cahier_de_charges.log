@@ -1,0 +1,530 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.10.30)  30 OCT 2023 18:57
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./fourissou_conception_muni_cahier_de_charges.tex
+(fourissou_conception_muni_cahier_de_charges.tex
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-08-29>
+(C:\Users\ABDEL\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Users\ABDEL\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(C:\Users\ABDEL\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\ABDEL\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(C:\Users\ABDEL\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\ABDEL\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\ABDEL\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\ABDEL\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+) (C:\Users\ABDEL\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2023/09/29 v3.95 The Babel package
+\babel@savecnt=\count193
+\U@D=\dimen143
+\l@unhyphenated=\language79
+
+(C:\Users\ABDEL\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count194
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\ABDEL\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\ABDEL\AppData\Local\Programs\MiKTeX\tex/generic/babel-french\french.l
+df
+Language: french 2023/03/08 v3.5q French support from the babel system
+Package babel Info: Hyphen rules for 'acadian' set to \l@french
+(babel)             (\language22). Reported on input line 91.
+Package babel Info: Hyphen rules for 'canadien' set to \l@french
+(babel)             (\language22). Reported on input line 92.
+\FB@nonchar=\count195
+Package babel Info: Making : an active character on input line 395.
+Package babel Info: Making ; an active character on input line 396.
+Package babel Info: Making ! an active character on input line 397.
+Package babel Info: Making ? an active character on input line 398.
+\FBguill@level=\count196
+\FBold@everypar=\toks18
+\FB@Mht=\dimen144
+\mc@charclass=\count197
+\mc@charfam=\count198
+\mc@charslot=\count199
+\std@mcc=\count266
+\dec@mcc=\count267
+\FB@parskip=\dimen145
+\listindentFB=\dimen146
+\descindentFB=\dimen147
+\labelindentFB=\dimen148
+\labelwidthFB=\dimen149
+\leftmarginFB=\dimen150
+\parindentFFN=\dimen151
+\FBfnindent=\dimen152
+))
+(C:\Users\ABDEL\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/fr\babel
+-french.tex
+Package babel Info: Importing font and identification data for french
+(babel)             from babel-fr.ini. Reported on input line 11.
+)
+(C:\Users\ABDEL\AppData\Local\Programs\MiKTeX\tex/latex/carlisle\scalefnt.sty)
+(C:\Users\ABDEL\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2023-07-08 v7.01b Hypertext links for LaTeX
+
+(C:\Users\ABDEL\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\ABDEL\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+(C:\Users\ABDEL\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\ABDEL\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Users\ABDEL\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(C:\Users\ABDEL\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\ABDEL\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (C:\Users\ABDEL\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\ABDEL\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro
+.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Users\ABDEL\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(C:\Users\ABDEL\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2023-08-07 v2.53 Cross-referencing by name of section
+
+(C:\Users\ABDEL\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\ABDEL\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(C:\Users\ABDEL\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count268
+)
+(C:\Users\ABDEL\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count269
+)
+\@linkdim=\dimen153
+\Hy@linkcounter=\count270
+\Hy@pagecounter=\count271
+
+(C:\Users\ABDEL\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2023-07-08 v7.01b Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Users\ABDEL\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count272
+
+(C:\Users\ABDEL\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2023-07-08 v7.01b Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4167.
+Package hyperref Info: Link nesting OFF on input line 4172.
+Package hyperref Info: Hyper index ON on input line 4175.
+Package hyperref Info: Plain pages OFF on input line 4182.
+Package hyperref Info: Backreferencing OFF on input line 4187.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4434.
+\c@Hy@tempcnt=\count273
+
+(C:\Users\ABDEL\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4772.
+\XeTeXLinkMargin=\dimen154
+
+(C:\Users\ABDEL\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\ABDEL\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count274
+\Field@Width=\dimen155
+\Fld@charsize=\dimen156
+Package hyperref Info: Hyper figures OFF on input line 6051.
+Package hyperref Info: Link nesting OFF on input line 6056.
+Package hyperref Info: Hyper index ON on input line 6059.
+Package hyperref Info: backreferencing OFF on input line 6066.
+Package hyperref Info: Link coloring OFF on input line 6071.
+Package hyperref Info: Link coloring with OCG OFF on input line 6076.
+Package hyperref Info: PDF/A mode OFF on input line 6081.
+
+(C:\Users\ABDEL\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count275
+\c@Item=\count276
+\c@Hfootnote=\count277
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+(C:\Users\ABDEL\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2023-07-08 v7.01b Hyperref driver for pdfTeX
+
+(C:\Users\ABDEL\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count278
+\c@bookmark@seq@number=\count279
+
+(C:\Users\ABDEL\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(C:\Users\ABDEL\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip50
+)
+(C:\Users\ABDEL\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(C:\Users\ABDEL\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen157
+\captionmargin=\dimen158
+\caption@leftmargin=\dimen159
+\caption@rightmargin=\dimen160
+\caption@width=\dimen161
+\caption@indent=\dimen162
+\caption@parindent=\dimen163
+\caption@hangindent=\dimen164
+Package caption Info: Standard document class detected.
+Package caption Info: french babel package is loaded.
+)
+\c@caption@flags=\count280
+\c@continuedfloat=\count281
+Package caption Info: hyperref package is loaded.
+)
+(C:\Users\ABDEL\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count282
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count283
+) (C:\Users\ABDEL\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count284
+\float@exts=\toks19
+\float@box=\box51
+\@float@everytoks=\toks20
+\@floatcapt=\box52
+)
+(C:\Users\ABDEL\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count285
+\l__pdf_internal_box=\box53
+) (fourissou_conception_muni_cahier_de_charges.aux)
+\openout1 = `fourissou_conception_muni_cahier_de_charges.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+
+(C:\Users\ABDEL\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count286
+\scratchdimen=\dimen165
+\scratchbox=\box54
+\nofMPsegments=\count287
+\nofMParguments=\count288
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count289
+\MPscratchDim=\dimen166
+\MPnumerator=\count290
+\makeMPintoPDFobject=\count291
+\everyMPtoPDFconversion=\toks22
+)
+(C:\Users\ABDEL\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\ABDEL\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+LaTeX Info: Redefining \degres on input line 8.
+LaTeX Info: Redefining \up on input line 8.
+
+
+Package french.ldf Warning: OT1 encoding should not be used for French.
+(french.ldf)                Add \usepackage[T1]{fontenc} to the preamble
+(french.ldf)                of your document; reported on input line 8.
+
+Package hyperref Info: Link coloring OFF on input line 8.
+(fourissou_conception_muni_cahier_de_charges.out)
+(fourissou_conception_muni_cahier_de_charges.out)
+\@outlinefile=\write3
+\openout3 = `fourissou_conception_muni_cahier_de_charges.out'.
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: End \AtBeginDocument code.
+ [1
+
+{C:/Users/ABDEL/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+(fourissou_conception_muni_cahier_de_charges.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 8.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 8.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 8.
+)
+\tf@toc=\write4
+\openout4 = `fourissou_conception_muni_cahier_de_charges.toc'.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.34 	\newpage
+               [1]
+Overfull \hbox (4.47142pt too wide) in paragraph at lines 41--42
+[]\OT1/cmr/m/n/12 ^^Ra \OT1/cmr/bx/n/12 M. Kha-lil His-seine HAM-DANE\OT1/cmr/m
+/n/12 , notre for-ma-teur en \OT1/cmr/m/it/12 Mod^^Selisation
+ []
+
+
+Overfull \hbox (31.76619pt too wide) in paragraph at lines 43--44
+[]\OT1/cmr/m/n/12 ^^Ra \OT1/cmr/bx/n/12 M. His-sein Dji-ber\OT1/cmr/m/n/12 , no
+tre res-pon-sable p^^Sedagogique pour son appr^^Seciation. 
+ []
+
+[1] [2]
+Overfull \hbox (26.90434pt too wide) in paragraph at lines 61--80
+ [][] 
+ []
+
+[3]
+Overfull \hbox (9.72224pt too wide) in paragraph at lines 97--99
+[]\OT1/cmr/m/n/12 Dans ce do-cu-ment, dans un pre-mier temps nous al-lons faire
+ une pr^^Sesentation
+ []
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.99 	
+       [1] [2]
+Underfull \hbox (badness 10000) in paragraph at lines 120--131
+
+ []
+
+[3] [4]
+Overfull \hbox (25.83606pt too wide) in paragraph at lines 157--158
+[]\OT1/cmr/m/n/12 UML s'adresse ^^Ra toutes les per-sonnes charg^^Sees de la pr
+o-duc-tion, du d^^Seploiement
+ []
+
+<actor.png, id=181, 78.2925pt x 106.3975pt>
+File: actor.png Graphic file (type png)
+<use actor.png>
+Package pdftex.def Info: actor.png  used on input line 166.
+(pdftex.def)             Requested size: 29.24881pt x 39.74797pt.
+<use_case.png, id=183, 189.70876pt x 97.36375pt>
+File: use_case.png Graphic file (type png)
+<use use_case.png>
+Package pdftex.def Info: use_case.png  used on input line 172.
+(pdftex.def)             Requested size: 77.99881pt x 40.0308pt.
+[5]
+<use_case_diag.png, id=189, 1164.35pt x 973.6375pt>
+File: use_case_diag.png Graphic file (type png)
+<use use_case_diag.png>
+Package pdftex.def Info: use_case_diag.png  used on input line 215.
+(pdftex.def)             Requested size: 390.0pt x 326.11487pt.
+ [6 <./actor.png> <./use_case.png>] [7 <./use_case_diag.png (PNG copy)>]
+<class.png, id=207, 218.8175pt x 168.63pt>
+File: class.png Graphic file (type png)
+<use class.png>
+Package pdftex.def Info: class.png  used on input line 256.
+(pdftex.def)             Requested size: 97.5pt x 75.1366pt.
+<u_class_diag_1.png, id=209, 772.8875pt x 913.4125pt>
+File: u_class_diag_1.png Graphic file (type png)
+<use u_class_diag_1.png>
+Package pdftex.def Info: u_class_diag_1.png  used on input line 266.
+(pdftex.def)             Requested size: 390.0pt x 460.91426pt.
+
+[8 <./class.png>] [9 <./u_class_diag_1.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 275--276
+
+ []
+
+<entite.png, id=222, 150.5625pt x 140.525pt>
+File: entite.png Graphic file (type png)
+<use entite.png>
+Package pdftex.def Info: entite.png  used on input line 285.
+(pdftex.def)             Requested size: 97.5pt x 91.00351pt.
+<association.png, id=223, 401.5pt x 130.4875pt>
+File: association.png Graphic file (type png)
+<use association.png>
+Package pdftex.def Info: association.png  used on input line 292.
+(pdftex.def)             Requested size: 292.5pt x 95.0679pt.
+[10 <./entite.png (PNG copy)> <./association.png (PNG copy)>]
+<mcd.png, id=230, 883.3pt x 833.1125pt>
+File: mcd.png Graphic file (type png)
+<use mcd.png>
+Package pdftex.def Info: mcd.png  used on input line 356.
+(pdftex.def)             Requested size: 390.0pt x 367.84186pt.
+ [11]
+Overfull \hbox (1.40149pt too wide) in paragraph at lines 368--369
+[]\OT1/cmr/m/n/12 Chaque as-so-cia-tion (x,n)-(x,n) (plu-sieurs ^^Ra plu-sieurs
+) de-vient une table
+ []
+
+[12 <./mcd.png (PNG copy)>]
+<mld.png, id=241, 712.6625pt x 772.8875pt>
+File: mld.png Graphic file (type png)
+<use mld.png>
+Package pdftex.def Info: mld.png  used on input line 374.
+(pdftex.def)             Requested size: 390.0pt x 422.95485pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 380--381
+
+ []
+
+[13 <./mld.png (PNG copy)>] [14]
+Overfull \hbox (5.41396pt too wide) in paragraph at lines 384--385
+\OT1/cmr/m/n/12 pro-jet, d'une en-tre-prise ou d'une or-ga-ni-sa-tion. Elle rep
+r^^Sesente un ^^Selargissement
+ []
+
+[15] [16] (fourissou_conception_muni_cahier_de_charges.lof)
+\tf@lof=\write5
+\openout5 = `fourissou_conception_muni_cahier_de_charges.lof'.
+
+
+(fourissou_conception_muni_cahier_de_charges.lot)
+\tf@lot=\write6
+\openout6 = `fourissou_conception_muni_cahier_de_charges.lot'.
+
+ [17]
+Overfull \hbox (38.14027pt too wide) in paragraph at lines 421--422
+[][]\OT1/cmr/m/n/12 https://fr.wikipedia.org/wiki/Universit%C3%A9[]de[]N%27Djam
+%C3%A9na[],
+ []
+
+[18] (fourissou_conception_muni_cahier_de_charges.aux)
+ ***********
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-08-29>
+ ***********
+Package rerunfilecheck Info: File `fourissou_conception_muni_cahier_de_charges.
+out' has not changed.
+(rerunfilecheck)             Checksum: 6EC59AC0AF46CC434057080928B40A1E;3186.
+ ) 
+Here is how much of TeX's memory you used:
+ 11862 strings out of 475247
+ 196308 string characters out of 5757791
+ 1928785 words of memory out of 5000000
+ 33206 multiletter control sequences out of 15000+600000
+ 563909 words of font info for 55 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 75i,15n,79p,958b,529s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\ABDEL\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
+1200.pk><C:/Users/ABDEL/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmbx12.pfb><C:/Users/ABDEL/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmcsc10.pfb><C:/Users/ABDEL/AppData/Local/Programs/MiKTeX/fonts/
+type1/public/amsfonts/cm/cmr10.pfb><C:/Users/ABDEL/AppData/Local/Programs/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/ABDEL/AppData/Local/Progra
+ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on fourissou_conception_muni_cahier_de_charges.pdf (23 pages, 46
+9328 bytes).
+PDF statistics:
+ 324 PDF objects out of 1000 (max. 8388607)
+ 64 named destinations out of 1000 (max. 500000)
+ 262 words of extra memory for PDF output out of 10000 (max. 10000000)
+
